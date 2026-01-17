@@ -470,6 +470,13 @@ end
 
 function M.load()
 	clear()
+
+	if not M._opts.transparent then
+		c.bg = c.bg0
+	else
+		c.bg = "NONE"
+	end
+
 	apply_highlights()
 end
 

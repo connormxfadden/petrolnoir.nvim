@@ -6,6 +6,9 @@
 Petrol Noir is designed for focus and restraint.
 It emphasizes hierarchy over brightness, with carefully controlled accents and deep contrast that stays readable at 3am.
 
+<img width="2097" height="1096" alt="image" src="https://github.com/user-attachments/assets/f6b23687-3822-4e6e-84ca-448de81c5365" />
+<img width="2125" height="1150" alt="image" src="https://github.com/user-attachments/assets/6c00d85f-a716-44c5-86aa-ba8af356d5fb" />
+
 Built for:
 
 * Neovim ≥ 0.9
